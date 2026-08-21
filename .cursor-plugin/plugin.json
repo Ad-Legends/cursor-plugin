@@ -2,7 +2,7 @@
   "name": "ad-legends",
   "displayName": "Ad Legends",
   "version": "1.0.0",
-  "description": "Generate on-brand ads from Cursor via the Ad Legends brands MCP. Call get_started first — never invent a tool name.",
+  "description": "The MCP that makes the ad. Visual DNA from any URL, brand memory, and finished ads from advertising legends. Works in Cursor and Grok Bot.",
   "author": {
     "name": "Ad Legends",
     "email": "founders@adlegends.ai"
