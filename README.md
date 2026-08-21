@@ -1,6 +1,6 @@
 # Ad Legends Cursor plugin
 
-Official [Ad Legends](https://www.adlegends.ai/mcp) plugin for Cursor. It connects the hosted brands MCP so an agent can create a brand from a URL, import a design system, and generate finished on-brand ads — written by advertising legends, not generic AI.
+Official [Ad Legends](https://www.adlegends.ai/mcp) plugin for Cursor and Grok Bot. It connects the hosted brands MCP so an agent can create a brand from a URL, import a design system, and generate finished on-brand ads — written by advertising legends, not generic AI.
 
 Homepage: [https://www.adlegends.ai/mcp](https://www.adlegends.ai/mcp)
 
