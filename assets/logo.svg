@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Ad Legends">
+  <title>Ad Legends</title>
+  <rect width="512" height="512" fill="#0a0a0a"/>
+  <g transform="translate(56 96)">
+    <!-- left wing -->
+    <polygon points="0,248 88,248 156,132 68,88" fill="#c8962a"/>
+    <polygon points="68,88 156,132 124,36" fill="#e8c04a"/>
+    <polygon points="124,36 156,132 188,84 168,20" fill="#f3d56a"/>
+    <!-- center peak -->
+    <polygon points="156,132 200,248 256,40 188,84" fill="#d4a017"/>
+    <polygon points="188,84 256,40 200,8 168,20" fill="#f6de7a"/>
+    <polygon points="200,8 256,40 312,8" fill="#ffe9a0"/>
+    <polygon points="256,40 324,84 344,20 312,8" fill="#f3d56a"/>
+    <polygon points="256,40 312,248 324,84" fill="#b8860b"/>
+    <!-- right wing -->
+    <polygon points="324,84 356,132 388,36" fill="#e8c04a"/>
+    <polygon points="344,20 324,84 388,36" fill="#f6de7a"/>
+    <polygon points="356,132 244,248 400,248 332,88" fill="#c8962a"/>
+    <polygon points="356,132 332,88 388,36" fill="#d4a017"/>
+    <!-- band -->
+    <polygon points="88,248 200,248 176,292 64,292" fill="#a67c12"/>
+    <polygon points="200,248 312,248 336,292 176,292" fill="#c8962a"/>
+    <polygon points="312,248 400,248 336,292" fill="#8a6910"/>
+  </g>
+</svg>

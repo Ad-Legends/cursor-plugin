@@ -1,0 +1,24 @@
+{
+  "name": "ad-legends",
+  "displayName": "Ad Legends",
+  "version": "1.0.0",
+  "description": "Generate on-brand ads from Cursor via the Ad Legends brands MCP. Call get_started first — never invent a tool name.",
+  "author": {
+    "name": "Ad Legends",
+    "email": "founders@adlegends.ai"
+  },
+  "homepage": "https://www.adlegends.ai/mcp",
+  "repository": "https://github.com/Ad-Legends/cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ads",
+    "advertising",
+    "marketing",
+    "brand",
+    "mcp",
+    "creative",
+    "fast-ads"
+  ],
+  "logo": "assets/logo.png",
+  "skills": "./skills/"
+}
